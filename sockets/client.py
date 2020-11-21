@@ -27,6 +27,6 @@ def send(msg):
     # print(message)
 
 send("Hello World!")
-send("Hi Nick, you bloody genius :)")
-send("Your a good bloke, keep happy and smiling!")
+send("Nearly Christmas..")
+send("Time for a Kebab :)")
 send(DISCONNECT_MESSAGE)
